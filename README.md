@@ -149,4 +149,4 @@ Project Link: [https://github.com/rishiagarwal2000/multi-armed-bandits.git](http
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Professor Shivaram Kalyanakrishnan, IIT Bombay](https://www.cse.iitb.ac.in/~shivaram/)
-* [Santhosh Kumar G., IIT Bombay]()
+* Santhosh Kumar G., IIT Bombay
