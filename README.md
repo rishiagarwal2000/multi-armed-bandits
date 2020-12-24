@@ -36,7 +36,7 @@ Implemented different algorithms for sampling the arms of a stochastic multi-arm
 
 ### Algorithms
 The algorithms implemented are:
-*  Epsilon Greedy exploration
+* Epsilon Greedy exploration
 * UCB
 * KL-UCB
 * Thompson Sampling
@@ -73,7 +73,7 @@ $ python3 bandit.py --instance INSTANCE --algorithm ALGORITHM --randomSeed RANDO
 ```
 Here is an example:
 ```sh
-$ python3 bandity.py --instance ../instances/i-1.txt --algorithm ucb --randomSeed 0 --epsilon 0.1 --horizon 200
+$ python3 bandit.py --instance ../instances/i-1.txt --algorithm ucb --randomSeed 0 --epsilon 0.1 --horizon 200
 ```
 Refer [Algorithms](#algorithms) to see the list of implemented algorithms.
 
